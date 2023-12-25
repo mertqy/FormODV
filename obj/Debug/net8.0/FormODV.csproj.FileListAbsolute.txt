@@ -28,3 +28,4 @@ C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\obj\Debug\net8.0
 C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\obj\Debug\net8.0\FormODV.pdb
 C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\obj\Debug\net8.0\FormODV.genruntimeconfig.cache
 C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\obj\Debug\net8.0\ref\FormODV.dll
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\obj\Debug\net8.0\FormODV.sourcelink.json
