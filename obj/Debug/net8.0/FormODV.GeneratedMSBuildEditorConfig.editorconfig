@@ -18,12 +18,48 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Form/Form_1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtXzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Form/Form_10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtXzEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Form/Form_2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtXzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Form/Form_3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtXzMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Form/Form_5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtXzUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Form/Form_6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtXzYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Form/Form_7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtXzcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Form/Form_8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtXzguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Form/Form_9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtXzkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Shared/Components/Form/FormComponentDefault.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9ybVxGb3JtQ29tcG9uZW50RGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Shared/Error.cshtml]
@@ -32,10 +68,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Shared/_LeftPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MZWZ0UGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Shared/_RightPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SaWdodFBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mert_/OneDrive/Masaüstü/MERT/C\#/ASP.NET_Core/FormODV/Views/Shared/_ValidationScriptsPartial.cshtml]

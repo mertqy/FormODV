@@ -1,0 +1,15 @@
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\bin\Debug\net8.0\FormODV.Data.deps.json
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\bin\Debug\net8.0\FormODV.Data.runtimeconfig.json
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\bin\Debug\net8.0\FormODV.Data.dll
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\bin\Debug\net8.0\FormODV.Data.pdb
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\FormODV.Data.csproj.AssemblyReference.cache
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\FormODV.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\FormODV.Data.AssemblyInfoInputs.cache
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\FormODV.Data.AssemblyInfo.cs
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\FormODV.Data.csproj.CoreCompileInputs.cache
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\FormODV.Data.sourcelink.json
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\FormODV.Data.dll
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\refint\FormODV.Data.dll
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\FormODV.Data.pdb
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\FormODV.Data.genruntimeconfig.cache
+C:\Users\mert_\OneDrive\Masaüstü\MERT\C#\ASP.NET_Core\FormODV\FormODV.Data\obj\Debug\net8.0\ref\FormODV.Data.dll

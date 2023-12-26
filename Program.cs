@@ -1,7 +1,16 @@
+using FormODV.Data.Concrete;
+using FormODV.FormODV.Data.Concrete;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<FormDbContext>(options =>
+{
+    options.UseSqlite(builder.Configuration["ConnectionStrings:FormConnection"]);
+}); // Add your DbContext here
 
 var app = builder.Build();
 
