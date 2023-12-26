@@ -1,6 +1,7 @@
+using FormODV.Data.Abstract;
 using FormODV.Data.Concrete;
-using FormODV.FormODV.Data.Concrete;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,8 +10,10 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<FormDbContext>(options =>
 {
-    options.UseSqlite(builder.Configuration["ConnectionStrings:FormConnection"]);
-}); // Add your DbContext here
+    options.UseSqlite(builder.Configuration.GetConnectionString("FormConnection"));
+});
+
+builder.Services.AddScoped<IFormRepository, EFFormRepository>();
 
 var app = builder.Build();
 
@@ -28,9 +31,3 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
-
-app.Run();
